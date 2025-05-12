@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Paulo
-- 🏫 I’m currently learning Computer Science at the University of Luxembourg
-- ✍️ I'll use this account for my Bachelor Semester Projects and other UNI stuff
+- Doing a Master's Degree in Computer Science at the University of Luxembourg
+- This account is only for work/uni stuff
 
 
 <!---
